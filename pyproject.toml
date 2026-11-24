@@ -1,0 +1,10 @@
+[project]
+name = "manim-board-kit"
+version = "0.1.0"
+description = "Lay out a step-by-step board and generate a Manim scene from it"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
