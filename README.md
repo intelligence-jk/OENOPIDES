@@ -1,4 +1,6 @@
-# manim-board-kit
+# CHALK: Clean Handwritten Animation Layout Kit
+
+Formerly `manim-board-kit`.
 
 Lay out a step-by-step maths board and generate a ready-to-render Manim scene from it.
 
