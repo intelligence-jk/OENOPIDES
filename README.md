@@ -1,4 +1,4 @@
-# CHALK: Clean Handwritten Animation Layout Kit
+# OENOPIDES: named after Oenopides of Chios, credited with the first straightedge and compass constructions
 
 Formerly `manim-board-kit`.
 
